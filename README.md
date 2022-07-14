@@ -1,4 +1,4 @@
-# Notice: PulsePlayer will be moving to music man!
+# Notice: PulsePlayer has moved to [Music man](https://github.com/Advik-B/Music-Man)!
 
 # PulsePlayer
 A one-stop shop for music.
