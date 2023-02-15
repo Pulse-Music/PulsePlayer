@@ -1,10 +1,6 @@
-PyQt5
+PyQt6
 qt-material
 spotdl
 spotify
-spotipy
 pyyaml
 termcolor
-cython
-cx_Freeze
-black
