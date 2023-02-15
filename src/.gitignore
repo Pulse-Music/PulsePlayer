@@ -2,3 +2,4 @@
 logs/
 settings.yml
 *.DS_Store
+venv/
