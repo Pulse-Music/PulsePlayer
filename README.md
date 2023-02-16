@@ -27,7 +27,7 @@ So I ~~made~~ making an app that combines all the services into one. Then you ca
 - [GitHub](https://github.com) hosting the repo
 - [Git](https://git-scm.com/) for version control
 - [GitHub Desktop](https://desktop.github.com/) for managing the repo
-- [VSCode](https://code.visualstudio.com) IDE used for making the bot
+- [PyCharm](https://www.jetbrains.com/pycharm/) IDE used for making the bot
 - [FFmpeg](https://www.ffmpeg.org/) for converting audio, etc.
 
 ## License: [LGPL](https://github.com/Pulse-Music/PulsePlayer/blob/Main/LICENSE.txt)
