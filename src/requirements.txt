@@ -1,6 +1,7 @@
 PyQt6
 qt-material
-spotdl
 spotify
 pyyaml
-termcolor
+diskcache
+rich
+pytube
