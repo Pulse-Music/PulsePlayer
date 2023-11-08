@@ -1,7 +1,0 @@
-PyQt6
-qt-material
-spotify
-pyyaml
-diskcache
-rich
-pytube
